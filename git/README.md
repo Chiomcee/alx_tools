@@ -1,1 +1,1 @@
-git dir
+git direct root
